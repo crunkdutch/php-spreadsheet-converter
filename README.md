@@ -2,7 +2,7 @@
 
 ## TLDR; 
 - create a script that would take an xls as input and run through some business logic to create a new xls with additional rows and columns.
-- create another script that would take the output from above, run through more business logic to create an xls with more rows and columns
+- create another script that would take the output from above, run through more business logic to create an xls with more rows and columns.
 
 ## Long Version
 the ask came in 2 parts. 18 months apart. Sometime around 2018-ish for the first one, and then in 2020, shortly before i was made redundant lolz. I have tried to get an original xls to test with, but I can't get a response from the original requester. you will have to take my word for it that this actually DID accomplish the business goal. 
