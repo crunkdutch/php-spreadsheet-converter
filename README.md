@@ -12,7 +12,7 @@ Originally, some ad-ops person had to spend 2 hours to generate the output creat
 Then, a `final` spreadsheet took approx 2 more hours, so 4 hours to create the `final` xls, and there were multiple files that had to be created weekly. 
 
 
-This set up of scripts would take the original file as input run it and create a new xls file. the `new` xls file would then be used as the input for the 2nd script, to create the `final` xls. 
+This set of scripts would take the original file as input – run it – create a new xls file. the `new` xls file would then be used as the input for the 2nd script, to create the `final` xls. 
 
 Both scripts ran in < 1 min, with the approx max columns in each file (65,536)
 
