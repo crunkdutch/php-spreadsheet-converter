@@ -1,4 +1,4 @@
-# php-spreadsheet-converter
+# Spreadsheet Converter
 
 ## TLDR; 
 - create a script that would take an xls as input and run through some business logic to create a new xls with additional rows and columns.
